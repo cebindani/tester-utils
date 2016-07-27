@@ -30,7 +30,7 @@ No **_console_**, navegue para a pasta e execute:
     > ruby dk.rb install
 ...  para configurar as instalações no seu PATH.
 
-## Configure as RubyGems
+## Configure as RubyGems :small_red_triangle_down:
 
 https://rubygems.org/
 
